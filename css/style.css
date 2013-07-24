@@ -1,0 +1,213 @@
+/*Font Face css*/
+@font-face {
+    font-family:bebas;
+    src: url('../font/BEBAS___-webfont.eot');
+    src: url('../font/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/BEBAS___-webfont.woff') format('woff'),
+         url('../font/BEBAS___-webfont.ttf') format('truetype'),
+         url('../font/BEBAS___-webfont.svg#BebasRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.container{
+	width:70%;
+	height:auto;
+	margin:auto;
+}
+
+.headerpart{
+	height:200px;
+	width:70%;
+	margin:auto;
+}
+.header{height:160px;
+position:relative;
+margin-top:20px;
+width:940px;}
+.menu_one{float:right;
+}
+.menu_main{float:right;}
+ ul li{display:inline;
+ padding-right:15px;
+ }
+ 
+ ul li a{text-decoration:none;}
+.logo{
+	display:inline;
+}
+.joinus{
+	display:inline;
+	float:right;
+}
+.topmenu{
+	float:right;
+	margin-top:0px;
+}
+.topmenu li{
+	display:inline;
+}
+nav{
+	float: right;
+    margin-right: -274px;
+    margin-top: 100px;
+	
+}
+.main-nav li{
+	display:inline;
+	
+}
+.main-nav li a:hover{
+	color:#FFFF66;}
+	
+body{
+	background-image:url(../img/body_bg.jpg);
+}
+.box{
+	height:349px;
+	width:98%;
+	margin:auto;
+	background-color:#B3CE59;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+.RitePlace{
+	float: right;
+    padding-right: 62px;
+}
+.buttonTop{
+	background-image:url(../img/image-3.png);
+	background-repeat:no-repeat;
+}
+.imggg{
+	border-right: 1px solid #97B14C;
+	padding-right: 20px;
+	float:left;
+	margin-right: 53px;
+}	
+.pageNo1{
+	padding: 29px 0 0 54px;
+}
+.boxupWright{
+}
+.font{
+	font-family:bebas;
+	font-size:24px;
+	color:#FFF;
+	font-weight:bolder;
+	margin-top: 36px;
+}
+.boxUnderImg1{
+	font-size:18px;
+	color:#063;
+	float:left;
+}	
+.brush{
+	min-width:90%;
+	overflow:hidden;
+	margin: 26px 0 48px;
+	padding-left: 3%
+}
+.boxUnderImg{
+	padding-left: 9px;
+}
+.img1{
+	margin-right: 7px;
+	float:left;
+	padding-top: 10px;
+}
+.img2{
+	
+	margin-right: 7px;
+	float:left;
+	padding-top: 16px;
+	padding-left: 10px;
+	border-left: 2px solid #96B23B;
+}
+.img3{
+	
+	margin-right: 7px;
+	float:left;
+	padding-top: 16px;
+	padding-left: 10px;
+	border-left: 2px solid #96B23B;
+}
+.img4{
+	
+	margin-right: 7px;
+	float:left;
+	padding-top: 16px;
+	padding-left: 10px;
+	border-left: 2px solid #96B23B;
+}
+.img5{
+	margin-right: 7px;
+	float:left;
+	padding-top: 16px;
+	padding-left: 10px;
+	border-left: 2px solid #96B23B;
+	
+}
+.write1{
+	    margin-right: 10px;
+		padding-top: 20px;
+		float:left;
+		height:80px;
+		padding-right:10px;
+		font-size:15px;
+		color:#506401;
+		font-weight:bold;
+}
+.write{
+	    margin-right: 10px;
+		padding-top: 17px;
+		float:left;
+		height:80px;
+		padding-right:10px;
+		font-size:15px;
+		color:#506401;
+		font-weight:bold;
+}
+.writeLast{
+		height:80px;
+		font-size:15px;
+		color:#506401;
+		font-weight:bold;
+		padding-top: 17px;
+}
+.bar{
+	width:200px;
+	border-right: 2px solid #506401;
+}
+.seOtOlkKeyFont{
+	font-size:40px;
+	color:#118F2E;
+	min-width:100%;
+}
+.seotolkBar{
+	width:90%;
+	border:1px solid green;
+	margin:auto;
+}
+.skBodyRight{
+	height:100px;
+	width:50%;
+	float:left;
+}
+.skimg{
+	float:left;
+	margin-right: 12px;
+}
+.skwrite{
+	padding-top: 15px;
+	
+}
+.skwriteTopFont{
+	color:green;}
+	
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+	
+}
