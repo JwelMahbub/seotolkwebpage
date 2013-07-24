@@ -76,10 +76,10 @@ body{
 	float: right;
     padding-right: 62px;
 }
-.buttonTop{
-	background-image:url(../img/image-3.png);
-	background-repeat:no-repeat;
-}
+.button{background-image:url(../img/button.png);
+background-repeat:no-repeat;
+margin-top:40px;
+height:30px;}
 .imggg{
 	border-right: 1px solid #97B14C;
 	padding-right: 20px;
